@@ -1,2 +1,0 @@
-# Modulo-Programacion-Basica-en-Java
-EMPRENDIMIENTO DIGITAL CON TECNOLOGIAS WEB 
