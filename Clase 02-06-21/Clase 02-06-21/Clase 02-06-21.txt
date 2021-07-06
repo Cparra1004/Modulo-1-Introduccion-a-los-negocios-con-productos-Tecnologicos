@@ -1,0 +1,43 @@
+
+
+ .- SIEMPRE LA INVERSION INICIAL SE DEBE TENER EN CONSIDERACION DENTRO DEL FLUJO DE CAJA CON LA CONSIENCIA DE TENER 
+    LA RESTA A LOS GASTOS POR LO QUE PODRIA TENER EN NEGATIVO EL RESULTADO
+
+
+ .- LOS FLUJOS DE CAJA SE LLEVAN AL VALOR PRESENTE NETO VPN PARA TENER EN CONSIDERACION EL MOVIMIENTO DE DINERO A FUTURO
+
+
+ .- EL FLUJO DE CAJA CUANDO ES NEGATIVO ES NEGATIVO SE PRESENTA CUANDO EL MOVIMIENTO DE INGRESOS Y COSTOS ES 0 ADEMAS SIEMPRE
+    SE DEBE RESTAR LA INVERSION PARA TENER LA COMPARATIVA EN AÑOS ESTIPULADO POR EL PROYECTO O PERSONA A CONSIDERAR.
+
+
+ .- TASA DE DESCUENTO ES LA TASA QUE SE APLICA A LOS PRODUCTOS CON LOS DESCUENTOS A CONSIDERAR SEGUN VENTA
+
+
+ .- INFLACION + UNA TASA DE DESCUENTO QUE SE ENCUENTRA EN LA BOLSA DE COMERCIO ENTRE 20 & 25%
+
+
+ .- ventaja de un banco es una opcion en cuanto a la renyabilidad de una empresa financiera
+
+
+ .- ventaja de un inversionista es una ganancia con la participacion de cada uno 
+
+    desventaja es si pierde la empresa pierden todos
+
+.- la viabilidad se ve afectada en el fracaso o exito segun el tipo de negocio y las estrategias a considerar
+
+
+.- flujo de caja proyectado: se refiere a la proyeccion en el proyecto a considerar segun los factores a tomar en consideracion
+
+
+.- modelos de flujos de caja proyectados pesimista, realista o moderado, optimista. Esto permite crear escenarios diferentes
+   para tener en consideracion los aspectos para tener en cuenta e implementar en un proyecto personal.
+
+.- proyecto B2B bussines to bussines: el proyecto final es una venta fisica con un cliente que esta dispuesto a pagar por ese
+   producto solamente se tiene en mente la alianza a futuro
+
+
+
+
+
+
