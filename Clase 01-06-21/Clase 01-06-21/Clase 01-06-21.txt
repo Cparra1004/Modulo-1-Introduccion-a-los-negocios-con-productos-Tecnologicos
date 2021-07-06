@@ -1,0 +1,155 @@
+   Repaso
+
+ .- que es el portafolio
+
+ .- orden del lienzo de canvas es el analisis de un empendimiento o un caso especial propio
+
+ .- lienzo propuesta de valor es la relacion de las caracteristicas del cliente con respecto a el producto final a considerar
+     lado de la torta perfil del cliente sin encontrar la solucion - lado izquierzo solucion del cliente segun requerimiento
+
+
+ .- entre el modelo canvas y la propuesta de valor son diferentes entre si 
+
+ .- primer mvp ( producto minimo viable ) para salir a testear clientes para tener en consideracion segun la necesidad del cliente
+
+ .- no siempre hay un orden establecido pero se debe tener en consideracion las etapas de cada complejo.
+
+
+
+ 
+  flujo de caja permite diferencia entre ingreso y egresos para determinar si es positivo ( ingresos ventas ) o negativo
+  ( perdida )
+
+
+  financiero: directamente con la empresa
+
+  operaciones:se relaciona con las operaciones o movimientos de la empresa
+
+  inversion: se relaciona con el capital de cada inversionista puesto que se tiene en consideracion la participacion de cada uno.
+ 
+  .- el flujo de caja de dos empresas con el mismo flujo de caja tiene mejor venta con con la valorizacion de cada una.
+     ademas se considera la tecnologia, socios, etc.
+
+
+
+
+  COSTOS Y GASTOS
+
+   COSTOS: SE RELACIONA CON EL PROCESO DE PRODUCTO, SALIDA DE DINERO QUE SE VINCULA CON LA PRODUCION DE BIENES O SERV
+           INDISPENSABLE PARA LA IMPLEMENTACION DEL FLUJO DE DINERO
+
+
+   GASTOS: DESEMBOLSO QUE SE LLEVA A CABO CON EL PROCEDO DE PRODUCTO O SERVICIO NO SE RELACIONA SE VINCULA CON TEMAS DE OPERACIONES
+
+
+ RENTABILIDAD
+
+    OPERACION QUE INDICA LA PRODUCTIVIDAD DE LA EMPRESA
+
+     RENT. ECONOMICA: ( EMPRESA ) CUANTO BENEFICIOS SE TIENE EN CONSIDERACION CON EL BIEN DE LA EMPRESA
+
+     RENT. FINANCIERA: ( SOCIOS ) CADA SOCIO SE PREOCUPA DEL KAPITAL INICIAL Y QUE TAN RENTABLE ES LA EMPRESA DE LA EVOLUCION DEL KAPITAL
+
+     RENT. SOCIAL: ( SOCIAL ) CUANTO ES EL PRECIO A CONSIDERAR POR EL INGRESO DE CADA IMPLEMENTACION O IMPACTO SOCIAL
+
+     ROI: RETORNO A LA INVERSION
+
+     
+          EJEMPLO FLUJO DE CAJA
+
+                                AÑO 2019                AÑO 2020
+    ( + ) INGRESO POR VENTA     100                      120  
+    ( - ) COSTOS POR VENTA       20                      40  
+          INTERESES              2                       4
+    - - - - - -  - - - - - -
+          UAI                    78                      76    
+    ( - ) IMPUESTOS              5                       8  
+ 
+     - - - -  -- --  - - - - 
+             UDI                 73                      68
+     ( - )   GASTOS              40                      50
+     ( - )   INVERSION    100     0                       0
+    - - - - -  -- - - - --  -
+            FLUJO DE CAJA -100    33                      18 
+
+
+
+     VPN: VALOR PRESENTE NETO INDICA LOS DINEROS INVERTIDOS EN EL PROYECTO VAN A RENTAR A UNA TASA SUPERIOR A LA TASA DE INTERES DE
+          CUANDO ES EL VALOR PRESENTE MAYOR A CERO
+          
+          VPN > 0 SE COMIENZAN A GENERAR UTILIDADES DE LA EMPRESA
+
+                INTERES 2%
+
+
+     CALCULO VALOR PRESENTE NETO MIENTRAS MAS PERIODOS SE DEBEN SUMAR MAS PERIODOS Y CON LOS PERIODOS IGUALMENTE
+
+
+          VPN = -100 ( INVERSION ) + 33 ( FLUJO DE CAJA )
+                                     / ( 1 + 2% ) ELEVADO A 1 ( TIEMPO )
+
+     
+
+
+
+     VENTA DE MERMELADA 2000 PESOS DE 100 GR
+
+     COSTO MERMELADA 1000 PESOS
+
+     UTILIDAD DE VENTA MERMELADA 1000 PESOS
+
+     POR VENTA DE MIL UNIDADES SERIAN 2000000 PESOS
+
+
+                         FUJO DE CAJA     
+
+     INGRESO X VENTA      2000000 PESOS
+
+     COSTO X VENTA        1000000
+                          ------
+      UTILIDAD X IMPUESTO 1000000 ( LA RESTA ENTRE AMBOS )
+
+      IVA                 200000
+                         ----------
+                           800000  ( LA RESTA ENTRE AMBOS ) 
+
+      SUELDO TRABAJADOR    200000            
+    
+      GASTOS               100000
+
+                           200000    ( LA RESTA ENTRE AMBOS FLUJO DE CAJA )
+
+      JUNIO 300000   FLUJO DE CAJA
+
+      JULIO 400.000  FLUJO DE CAJA
+
+      MAQUINARIA     1.000.000
+
+
+      * NUNCA EL VALOR DEL DINDERO ES EL MISMO EN TIEMPO 
+
+   
+      VPN FORMULA
+
+      INVERSION: 1.000.000 + 200.000 FLUJO CAJA MAYO) / ( 1 + 3% ) ELEVADO AL PERIODO DE TIEMPO 1 + 300000 JUNIO / ( 1 + 3% ) 2 
+                 400.000 +
+
+                
+
+     formula de VPN SE UTILIZA PARA UTILIZAR EN FLUJOS DE CAJA EN EMPRENDIMIENTO
+                    SE UTILIZA PARA TENER EN CONSIDERACION LO ESTABLECIDO POR CADA UNO
+
+
+     FORMULA DE VALOR FUTURO  SE UTILIZA PARA TENER EN CONSIDERACION EL DINERO QUE SE MUEVE A CONSIDERAR
+    
+ 
+        
+       
+
+
+
+   
+
+
+  
+  
